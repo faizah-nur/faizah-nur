@@ -1,4 +1,4 @@
-## Hi there 👋
+## Build. Learn. Share.😾
 
 <!--
 **faizah-nur/faizah-nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![Faizah's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizah-nur&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizah-nur&layout=compact&theme=radical) -->
+
+![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3Q1Z3p6NTZrYzc4NTB2N2FxdWtxcWFuZXNtNWwzN2NsZzdpMnIycyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/gPsMwayI4mhhntEwYF/giphy.gif)
